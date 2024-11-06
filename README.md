@@ -5,7 +5,6 @@
 I'm a student passionate about game development, software development, and gaming. Currently, I'm focused on learning Python and C# to build cool projects and explore new possibilities.
 
 
----
 
 🚀 About Me
 
@@ -19,8 +18,6 @@ I'm a student passionate about game development, software development, and gamin
 
 
 
----
-
 🛠️ Technologies & Tools
 
 Languages: Python, C#
@@ -31,14 +28,9 @@ Tools: Unity, Visual Studio, Git
 
 
 
----
-
 📊 GitHub Stats
 
 
-
-
----
 
 🌐 Connect with Me
 
@@ -48,12 +40,5 @@ Twitter: Your Twitter
 
 
 
----
-
 Thanks for visiting my profile! Feel free to explore my projects or connect with me to discuss development and gaming!
-
-
----
-
-Customize this template with your details and share your unique journey!
 
