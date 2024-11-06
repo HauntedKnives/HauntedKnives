@@ -5,7 +5,7 @@
 I'm a student passionate about game development, software development, and gaming. Currently, I'm focused on learning Python and C# to build cool projects and explore new possibilities.
 
 
-___
+#
 
 ### 🚀 About Me
 
@@ -18,7 +18,7 @@ ___
 🕹️ In my free time, you’ll find me gaming or experimenting with new development ideas.
 
 
-___
+#
 
 ### 🛠️ Technologies & Tools
 
@@ -29,12 +29,12 @@ Interests: Game Development, Software Development
 Tools: Unity, Visual Studio, Git
 
 
-___
+#
 
 ### 📊 GitHub Stats
 
 
-___
+#
 
 ### 🌐 Connect with Me
 
@@ -42,7 +42,7 @@ Instagram: [@haunted_knives](https://instagram.com/haunted_knives)
 
 
 
-___
+#
 
 Thanks for visiting my profile! Feel free to explore my projects or connect with me to discuss development and gaming!
 
