@@ -39,9 +39,28 @@ I'm a student passionate about game development, software development, and gamin
 
 ### 🌐 Connect with Me
 
-**Instagram  :** [@haunted_knives](https://instagram.com/haunted_knives)
 
-**X          :** [@Haunted_Knives](https://x.com/Haunted_Knives)
+
+<a href="https://x.com/Haunted_Knives">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
+         <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
+      </picture>
+   </a>&nbsp;&nbsp;&nbsp;
+
+   <a href="https://instagram.com/haunted_knives">
+       <picture>
+           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" />
+           <img height="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" />
+       </picture>
+   </a>&nbsp;&nbsp;&nbsp;   
+
+<a href="https://github.com/HauntedKnives">
+       <picture>
+           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
+           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+       </picture>
+   </a>&nbsp;&nbsp;&nbsp;
 
 
 
