@@ -39,7 +39,8 @@ Tools: Unity, Visual Studio, Git
 
 ### 🌐 Connect with Me
 
-Instagram: [@haunted_knives](https://instagram.com/haunted_knives)
+Instagram  : [@haunted_knives](https://instagram.com/haunted_knives)
+X          : [@Haunted_Knives](https://x.com/Haunted_Knives)
 
 
 
