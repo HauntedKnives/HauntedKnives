@@ -1,3 +1,11 @@
+<p align="center">
+<picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4bmJ3bHR3dWI1Nzh4YWhuYmhkd2JheDVqd3BhcXc4NjB4aDc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.webp">
+         <img height="300px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4bmJ3bHR3dWI1Nzh4YWhuYmhkd2JheDVqd3BhcXc4NjB4aDc2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jptSqy6yYse5AaDRn0/giphy.webp" />
+</picture>
+<p/>
+
+
 ## Hi there, I'm Haunted Knives! 👋
 
 
