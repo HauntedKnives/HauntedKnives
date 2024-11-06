@@ -7,7 +7,7 @@ I'm a student passionate about game development, software development, and gamin
 
 ___
 
-🚀 About Me
+**🚀 About Me**
 
 🎓 I'm a student exploring the world of programming and development.
 
@@ -20,7 +20,7 @@ ___
 
 ___
 
-🛠️ Technologies & Tools
+**🛠️ Technologies & Tools**
 
 Languages: Python, C#
 
@@ -31,12 +31,12 @@ Tools: Unity, Visual Studio, Git
 
 ___
 
-📊 GitHub Stats
+**📊 GitHub Stats**
 
 
 ___
 
-🌐 Connect with Me
+**🌐 Connect with Me**
 
 [Instagram](https://instagram.com/haunted_knives)
 
