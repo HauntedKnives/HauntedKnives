@@ -18,7 +18,7 @@ ___
 🕹️ In my free time, you’ll find me gaming or experimenting with new development ideas.
 
 
-
+___
 
 🛠️ Technologies & Tools
 
@@ -29,12 +29,12 @@ Interests: Game Development, Software Development
 Tools: Unity, Visual Studio, Git
 
 
-
+___
 
 📊 GitHub Stats
 
 
-
+___
 
 🌐 Connect with Me
 
@@ -43,7 +43,7 @@ LinkedIn: Your LinkedIn
 Twitter: Your Twitter
 
 
-
+___
 
 Thanks for visiting my profile! Feel free to explore my projects or connect with me to discuss development and gaming!
 
