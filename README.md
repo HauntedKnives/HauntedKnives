@@ -38,7 +38,7 @@ ___
 
 ### 🌐 Connect with Me
 
-[Instagram](https://instagram.com/haunted_knives)
+Instagram: [@haunted_knives](https://instagram.com/haunted_knives)
 
 
 
