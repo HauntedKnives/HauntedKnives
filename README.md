@@ -68,3 +68,11 @@ I'm a student passionate about game development, software development, and gamin
 
 Thanks for visiting my profile! Feel free to explore my projects or connect with me to discuss development and gaming!
 
+#
+
+<p align="center" > 
+  <b>Profile Views</b><br>
+  <br>    
+  <img src="https://profile-counter.glitch.me/HauntedKnives/count.svg" />
+</p>
+
