@@ -22,11 +22,11 @@ I'm a student passionate about game development, software development, and gamin
 
 ### 🛠️ Technologies & Tools
 
-Languages: Python, C#
+**Languages:** Python, C#
 
-Interests: Game Development, Software Development
+**Interests:** Game Development, Software Development
 
-Tools: Unity, Visual Studio, Git
+**Tools:** Unity, Visual Studio, Git
 
 
 #
@@ -39,9 +39,9 @@ Tools: Unity, Visual Studio, Git
 
 ### 🌐 Connect with Me
 
-Instagram  : [@haunted_knives](https://instagram.com/haunted_knives)
+**Instagram  :** [@haunted_knives](https://instagram.com/haunted_knives)
 
-X          : [@Haunted_Knives](https://x.com/Haunted_Knives)
+**X          :** [@Haunted_Knives](https://x.com/Haunted_Knives)
 
 
 
