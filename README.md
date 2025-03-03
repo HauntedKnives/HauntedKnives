@@ -58,8 +58,8 @@ I'm a student passionate about game development, software development, and gamin
 
    <a href="https://instagram.com/haunted_knives">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" />
-           <img height="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" />
+           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" />
+           <img height="24px" src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;   
 
