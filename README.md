@@ -42,7 +42,9 @@ I'm a student passionate about game development, software development, and gamin
 ### 📊 GitHub Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HauntedKnives&show_icons=true&theme=algolia)
+<p align="center">
+  <img src="https://metrics.lecoq.io/HauntedKnives?base=header,activity,community,repositories&display=regular" alt="GitHub Metrics" />
+</p>
 #
 
 ### 🌐 Connect with Me
@@ -79,9 +81,11 @@ Thanks for visiting my profile! Feel free to explore my projects or connect with
 #
 
 <p align="center" > 
-  <b>Profile Views</b><br>
-  <br>    
-  <img src="https://profile-counter.glitch.me/HauntedKnives/count.svg" />
+  <b>Profile Views</b>
+         
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Username&style=for-the-badge" alt="Profile Views" />
+</p>
 </p>
 
 #
