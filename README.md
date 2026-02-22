@@ -43,9 +43,13 @@ I'm a student passionate about game development, software development, and gamin
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HauntedKnives&theme=dracula&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/HauntedKnives">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HauntedKnives&theme=dracula&area=true&hide_border=true&bg_color=00000000" alt="HauntedKnives's Activity Graph" width="100%" />
+  </a>
 </p>
+
 #
+
 
 ### 🌐 Connect with Me
 
