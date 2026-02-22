@@ -43,7 +43,7 @@ I'm a student passionate about game development, software development, and gamin
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/HauntedKnives?base=header,activity,community,repositories&display=regular" alt="GitHub Metrics" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HauntedKnives&theme=dracula&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 #
 
